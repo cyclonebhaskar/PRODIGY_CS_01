@@ -1,0 +1,6 @@
+Tools and Technologies Used:
+
+1. Python 3
+2. Visual Studio Code (Code Editor)
+3. GitHub (Version Control)
+4. Command Line / Terminal
