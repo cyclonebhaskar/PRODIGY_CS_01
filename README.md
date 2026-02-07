@@ -1,33 +1,28 @@
 # PRODIGY_CS_01
-Cyber Security Internship Task 01 – Prodigy Infotech
-# PRODIGY_CS_01
 
 ## 🔐 Cyber Security Internship – Prodigy Infotech
 
-### 📌 Task Description
-Brief description of the task provided by Prodigy Infotech.
+### 📌 Task Title
+Caesar Cipher Encryption and Decryption using Python
+
+### 📖 Task Description
+Create a Python program that encrypts and decrypts text using the Caesar Cipher algorithm.  
+The program allows users to input a message and a shift value.
 
 ### 🛠 Tools Used
-- Nmap
-- Wireshark
-- Kali Linux
-- Burp Suite
-(according to your task)
+- Python 3
 
-### 📊 What I Did
-- Understood the problem statement
-- Performed scanning / analysis
-- Identified vulnerabilities
-- Documented findings
+### ⚙️ How It Works
+- User enters a message
+- User provides a shift value
+- Program encrypts the message
+- Program decrypts the encrypted text
 
 ### 📚 What I Learned
-- Basics of network scanning
-- Vulnerability assessment
-- Cyber security best practices
-- Hands-on tool usage
-
-### 📷 Screenshots
-(Attach images in screenshots folder)
+- Basics of cryptography
+- Caesar Cipher algorithm
+- ASCII value manipulation
+- Python string handling
 
 ### ✅ Status
 Task Completed Successfully ✔️
